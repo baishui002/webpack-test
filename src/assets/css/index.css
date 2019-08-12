@@ -1,0 +1,8 @@
+body {
+    background: blue;
+}
+
+.box {
+    height: 100px;
+    background-image: url('../images/l_card@2x.png')
+}
